@@ -1,33 +1,52 @@
 # François Lachèse
 
-Fullstack developer (Node.js / React / TypeScript)
+Fullstack developer — TypeScript / React / Node.js
 
-6+ years building web & mobile apps in small teams and startups.  
-Focus: clean code, performance, scalability, and shipping things that work.
+6+ years shipping web and mobile apps in startups and small teams.  
+Based in Tours, France. Remote-first.
 
-## Skills
+**What I do:** clean code, scalable backends, CI/CD, and shipping things that work.  
+**Recent focus:** AI integration (LLM APIs, RAG pipelines), Kubernetes, platform tooling.
 
-- TypeScript · JavaScript
-- React · React Native
-- Node.js · Express · Prisma
-- PostgreSQL · MySQL · SQLite
-- AWS · Docker · Kubernetes · Helm  
-- Git / CI-CD (GitHub Actions, Gitea)  
+## Experience
+
+- **Psynergy** (2021–2024) — Fullstack developer  
+  TypeScript, React, Node.js, PostgreSQL, K8s, Helm, CI/CD. Built and maintained a telehealth platform. Integrated LLMs for clinical decision support.
+
+- **Must Informatique / Orisha Socialcare** (2018–2021) — Developer  
+  Angular, .NET, C#, PostgreSQL. Participated in many small projects for social care clients.
+
+- **Inclusight** (2017) — Co-founder & Tech Lead  
+  Accessibility-first SaaS platform. PHP/Laravel, full ownership from zero to production.
+
+_Before that, took part in several indie and personal projects._
+
+## Education
+
+- **Software Engineering Degree** — 3IL, Limoges (2021)
+- **Master of Science and Technology (Big Data and Business Intelligence)** — UQO, Ottawa, CA (2020)
+- **BTS in IT (Services to Organizations)** — CNED (2018)
+- **Master's in Teaching Professions (English)** — USTV, Toulon (2016)
+- **Bachelor's in Foreign Languages, Literature & Civilizations (English)** — USTV, Toulon (2015)
+
+## Stack
+
+TypeScript · JavaScript · React · React Native · Node.js · Express · PostgreSQL · AWS · Docker · Kubernetes · Helm · Git · CI/CD (GitHub Actions, Gitea)
 
 ## Projects
 
-- **[Car Manager 3000](https://github.com/FLchs/carmanager3000)**  
-  Open-source car maintenance tracker (React + TypeScript / Orpc + Hono + Drizzle)
+- **[Car Manager 3000](https://github.com/typedrifter/carmanager3000)**  
+  Open-source car maintenance tracker. React + TypeScript, oRPC + Hono + Drizzle.
 
-- **[CursedTodo](https://github.com/FLchs/cursedtodo)**  
-  Minimal terminal task manager in Python + ncurses (CalDAV compatible)
+- **[CursedTodo](https://github.com/typedrifter/cursedtodo)**  
+  Minimal terminal task manager in Python + ncurses (CalDAV compatible).
 
 - **Kubernetes Homelab**  
-  Personal K3s cluster running Home Assistant, Nextcloud, Lidarr… with Helm & automated CI/CD
+  Personal K3s cluster with Home Assistant, Nextcloud, and automated CI/CD.
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/francois-lachese)  
-- [Malt](https://www.malt.fr/profile/francoislachese)
+- [LinkedIn](https://linkedin.com/in/francois-lachese)
+- [X / Twitter](https://x.com/TypeDrifter)
 
-Open to interesting opportunities — feel free to reach out.
+Looking for fullstack or backend-leaning roles in startups and scale-ups. CDI or freelance.
