@@ -2,8 +2,9 @@
 
 Fullstack developer. TypeScript, React, Node.js.
 
-6+ years shipping web and mobile apps in startups and small teams.
 Based in Tours, France. Remote-first.
+
+Looking for fullstack, backend or DevOps roles in startups and scale-ups. CDI or freelance.
 
 **What I do:** clean code, scalable backends, CI/CD, shipping things that work.
 **Recent focus:** AI integration (LLM APIs, RAG pipelines), Kubernetes, platform tooling.
@@ -16,6 +17,9 @@ Based in Tours, France. Remote-first.
 - **Must Informatique / Orisha Socialcare** (2018-2021) / Developer
   Angular, .NET, C#, PostgreSQL. Lots of small projects for social care clients.
 
+- **Oxeau Metering** (2018) / Developer (internship)
+  IoT water metering startup. Built a web app for recruiting test households and another for analyzing data from smart water sensors. PHP, Laravel, jQuery.
+
 - **Inclusight** (2017) / Co-founder and Tech Lead
   Accessibility-first SaaS platform. PHP/Laravel, zero to production.
 
@@ -25,9 +29,6 @@ Before that, a bunch of indie and personal projects.
 
 - Software Engineering Degree / 3IL, Limoges (2021)
 - Master of Science and Technology (Big Data and Business Intelligence) / UQO, Ottawa, CA (2020)
-- BTS in IT (Services to Organizations) / CNED (2018)
-- Master's in Teaching Professions (English) / USTV, Toulon (2016)
-- Bachelor's in Foreign Languages, Literature and Civilizations (English) / USTV, Toulon (2015)
 
 ## Stack
 
@@ -48,5 +49,3 @@ TypeScript, JavaScript, React, React Native, Node.js, Express, PostgreSQL, AWS, 
 
 - [LinkedIn](https://linkedin.com/in/francois-lachese)
 - [X / Twitter](https://x.com/TypeDrifter)
-
-Looking for fullstack or backend-leaning roles in startups and scale-ups. CDI or freelance.
