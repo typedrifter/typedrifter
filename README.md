@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Senior+Full-stack+Engineer;Node.js+%C2%B7+React+%C2%B7+TypeScript;6%2B+years+building+for+the+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Senior+full-stack+Node.js%2FReact+engineer;Design+%E2%80%A2+Develop+%E2%80%A2+Deploy;Performance+%E2%80%A2+Scalability+%E2%80%A2+Teamwork" alt="Typing SVG" />
 
 </div>
 
 ---
 
-Senior full-stack Node.js/React engineer with 6+ years across SMEs and startups. I design, develop, and deploy web and mobile applications through the full product lifecycle — with a focus on performance, scalability, and well-run teams.
+Senior full-stack Node.js/React engineer. Six years in SMEs and startups. I design, build, and ship web and mobile apps across the full product lifecycle. I care about performance, scalability, and teamwork.
 
-Based in Tours, France 🇫🇷. Remote-first. Looking for fullstack roles in startups and scale-ups; comfortable owning DevOps.
+Based in Tours, France. Remote-first.
+
+Looking for fullstack roles in startups and scale-ups. I can handle the DevOps part too.
 
 <div align="center">
 
@@ -21,29 +23,31 @@ Based in Tours, France 🇫🇷. Remote-first. Looking for fullstack roles in st
 
 ## Experience
 
-**Psynergy** (2021–2024) · Full-stack Software Engineer
+**Psynergy** (2021-2024) / Full-stack Software Engineer
 - Built and maintained a telehealth platform across web, mobile, and serverless
 - Overhauled the video upload pipeline, cutting failures
 - Revamped the monorepo architecture and CI/CD pipelines for faster delivery
 - Migrated infrastructure to Kubernetes with Helm
 - Integrated AI services into the video processing pipeline
 
-**Must Informatique / Orisha Socialcare** (2018–2021) · R&D Engineer (Apprenticeship)
+**Must Informatique / Orisha Socialcare** (2018-2021) / R&D Engineer (Apprenticeship)
 - Designed an electronic signature system for digital medical prescriptions
 - Modernized the client license management system with granular module handling
 - Developed a B2B medical equipment sales module integrated with inventory management
 
-**Oxeau Metering** (2018) · Developer (Internship)
+**Oxeau Metering** (2018) / Developer (internship)
 - IoT water metering startup
 - Built a web app for recruiting test households
 - Contributed to smart water sensor analysis software
 
-**Inclusight** (2017) · Co-founder and Tech Lead
+**Inclusight** (2017) / Co-founder and Tech Lead
 - Co-founded an accessibility-first SaaS startup; built and shipped the MVP
 
-*Before that, indie and personal projects.*
+Plus unreleased indie and personal projects.
 
 ## Stack
+
+TypeScript, React, React Native, Node.js, PostgreSQL, Docker, Kubernetes, Helm, AWS, Git, CI/CD (GitHub Actions, Gitea).
 
 <div align="center">
 
@@ -63,24 +67,17 @@ Based in Tours, France 🇫🇷. Remote-first. Looking for fullstack roles in st
 
 ## Selected work
 
-- [**Car Manager 3000**](https://github.com/typedrifter/carmanager3000) — Car maintenance tracker. TypeScript monorepo, oRPC + Hono + Drizzle + React 19.
-- [**CursedTodo**](https://github.com/typedrifter/cursedtodo) — Terminal task manager (Python + ncurses), CalDAV-compatible via `.ics`.
-- [**dotfiles**](https://github.com/typedrifter/dotfiles) — Wayland Arch Linux setup managed with GNU Stow and Ansible.
-- [**lsdesktop**](https://github.com/typedrifter/lsdesktop) — Utilities for working with XDG desktop entries.
-- [**quicklock**](https://github.com/typedrifter/quicklock) — A lock screen for Wayland, built with Quickshell.
-- **Kubernetes Homelab** — Personal K3s cluster with Home Assistant, Nextcloud, automated CI/CD.
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=typedrifter&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typedrifter&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-
-</div>
+- [Car Manager 3000](https://github.com/typedrifter/carmanager3000) - Car maintenance tracker. TypeScript monorepo, oRPC + Hono + Drizzle + React 19.
+- [CursedTodo](https://github.com/typedrifter/cursedtodo) - Terminal task manager (Python + ncurses), CalDAV-compatible via `.ics`.
+- [dotfiles](https://github.com/typedrifter/dotfiles) - Wayland Arch Linux setup managed with GNU Stow and Ansible.
+- [lsdesktop](https://github.com/typedrifter/lsdesktop) - Utilities for working with XDG desktop entries.
+- [quicklock](https://github.com/typedrifter/quicklock) - A lock screen for Wayland, built with Quickshell.
+- **Kubernetes Homelab** - Personal K3s cluster with Home Assistant, Nextcloud, automated CI/CD.
 
 ## Education
 
-- **Software Engineering Degree** / 3IL, Limoges (2021)
-- **M.Sc. Big Data & Business Intelligence** / UQO, Ottawa, CA (2020)
+- Software Engineering Degree / 3IL, Limoges (2021)
+- Master of Science and Technology (Big Data and Business Intelligence) / UQO, Ottawa, CA (2020)
 
 ## Certifications
 
@@ -90,4 +87,5 @@ Based in Tours, France 🇫🇷. Remote-first. Looking for fullstack roles in st
 ## Contact
 
 - Email: francois.lachese@gmail.com
-- [LinkedIn](https://linkedin.com/in/francois-lachese) · [X / Twitter](https://x.com/TypeDrifter)
+- [LinkedIn](https://linkedin.com/in/francois-lachese)
+- [X / Twitter](https://x.com/TypeDrifter)
