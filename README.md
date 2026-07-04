@@ -1,16 +1,16 @@
 # Francois Lachese
 
-Senior full-stack Node.js/React engineer with 6+ years of experience in SMEs and startups. I work across the full product lifecycle designing, developing, and deploying web and mobile applications with a focus on performance, scalability, and teamwork.
+Senior full-stack Node.js/React engineer with 6+ years in SMEs and startups. Design, develop, and deploy web and mobile applications across the full product lifecycle. Focus on performance, scalability, and teamwork.
 
 Based in Tours, France. Remote-first.
 
-Looking for fullstack roles in startups and scale-ups. Also comfortable owning DevOps.
+Looking for fullstack roles in startups and scale-ups. Comfortable owning DevOps.
 
 ## Experience
 
 **Psynergy** (2021-2024) / Full-stack Software Engineer
 - Built and maintained a telehealth platform across web, mobile, and serverless
-- Owned the video upload pipeline overhaul, significantly reducing failures
+- Overhauled the video upload pipeline, cutting failures
 - Revamped the monorepo architecture and CI/CD pipelines for faster delivery
 - Migrated infrastructure to Kubernetes with Helm
 - Integrated AI services into the video processing pipeline
@@ -26,9 +26,9 @@ Looking for fullstack roles in startups and scale-ups. Also comfortable owning D
 - Contributed to smart water sensor analysis software
 
 **Inclusight** (2017) / Co-founder and Tech Lead
-- Co-founded an accessibility-first SaaS startup; built the MVP end-to-end to production
+- Co-founded an accessibility-first SaaS startup; built and shipped the MVP
 
-Before that, a bunch of indie and personal projects.
+Before that, indie and personal projects.
 
 ## Education
 
@@ -41,17 +41,15 @@ Before that, a bunch of indie and personal projects.
 - Mental Health First Aid Responder / PSSM France (2023)
 
 ## Stack
-
 TypeScript, React, React Native, Node.js, PostgreSQL, Docker, Kubernetes, Helm, AWS, Git, CI/CD (GitHub Actions, Gitea).
-
 
 ## Selected work
 
 - [Car Manager 3000](https://github.com/typedrifter/carmanager3000) - Car maintenance tracker. TypeScript monorepo, oRPC + Hono + Drizzle + React 19.
 - [CursedTodo](https://github.com/typedrifter/cursedtodo) - Terminal task manager (Python + ncurses), CalDAV-compatible via `.ics`.
 - [dotfiles](https://github.com/typedrifter/dotfiles) - Wayland Arch Linux setup managed with GNU Stow and Ansible.
-- [lsdesktop](https://github.com/typedrifter/lsdesktop) - Small utilities for working with XDG desktop entries.
-- [quicklock](https://github.com/typedrifter/quicklock) - A simple lock screen for Wayland, built with Quickshell.
+- [lsdesktop](https://github.com/typedrifter/lsdesktop) - Utilities for working with XDG desktop entries.
+- [quicklock](https://github.com/typedrifter/quicklock) - A lock screen for Wayland, built with Quickshell.
 - **Kubernetes Homelab** - Personal K3s cluster with Home Assistant, Nextcloud, automated CI/CD.
 
 ## Contact
