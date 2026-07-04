@@ -1,10 +1,10 @@
 # François Lachèse
 
-Fullstack developer. TypeScript, React, Node.js.
+Fullstack & DevOps engineer. TypeScript, React, Node.js, Kubernetes.
 
 Based in Tours, France. Remote-first.
 
-Looking for fullstack, backend or DevOps roles in startups and scale-ups. CDI or freelance.
+Looking for fullstack roles in startups and scale-ups. Also comfortable owning DevOps.
 
 **What I do:** clean code, scalable backends, CI/CD, shipping things that work.
 **Recent focus:** AI integration (LLM APIs, RAG pipelines), Kubernetes, platform tooling.
@@ -32,18 +32,14 @@ Before that, a bunch of indie and personal projects.
 
 ## Stack
 
-TypeScript, JavaScript, React, React Native, Node.js, Express, PostgreSQL, AWS, Docker, Kubernetes, Helm, Git, CI/CD (GitHub Actions, Gitea)
+TypeScript, Node.js, React, PostgreSQL, Docker, Kubernetes, Helm, AWS, Git, CI/CD (GitHub Actions, Gitea). Also comfortable with: Go, Python, PHP/Laravel, .NET/C#, Angular.
 
-## Projects
+## Selected work
 
-- **[Car Manager 3000](https://github.com/typedrifter/carmanager3000)**
-  Open-source car maintenance tracker. React + TypeScript, oRPC + Hono + Drizzle.
-
-- **[CursedTodo](https://github.com/typedrifter/cursedtodo)**
-  Minimal terminal task manager in Python + ncurses (CalDAV compatible).
-
-- **Kubernetes Homelab**
-  Personal K3s cluster with Home Assistant, Nextcloud, automated CI/CD.
+- **[Car Manager 3000](https://github.com/typedrifter/carmanager3000)**. Car maintenance tracker. TypeScript monorepo, oRPC + Hono + Drizzle + React 19.
+- **[CursedTodo](https://github.com/typedrifter/cursedtodo)**. Terminal task manager (Python + ncurses), CalDAV-compatible via `.ics`.
+- **[dotfiles](https://github.com/typedrifter/dotfiles)**. Wayland Arch Linux setup managed with GNU Stow and Ansible.
+- **Kubernetes Homelab**. Personal K3s cluster with Home Assistant, Nextcloud, automated CI/CD.
 
 ## Contact
 
